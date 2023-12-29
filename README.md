@@ -20,6 +20,6 @@
   Material UI
 </pre>
 
-demo: https://blue-bank-od0buwb0v-ali-farokhs-projects.vercel.app/
+I Deployed it on vercel and You Can See it Online :  https://blue-bank-od0buwb0v-ali-farokhs-projects.vercel.app/
 
 </div>
