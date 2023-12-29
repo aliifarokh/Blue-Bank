@@ -4,7 +4,7 @@
 <br />
 <div style=" display: flex; gap: 10px; ">
   <img src="public/icons8-react-js-100.png" alt="react" />
-  <img src="public/icons8-nextjs-96.png" alt="react" />
+  <img src="public/icons8-tailwindcss-96.png" alt="react" />
 </div>
 <br />
 <a href="https://blue-bank-od0buwb0v-ali-farokhs-projects.vercel.app/">
