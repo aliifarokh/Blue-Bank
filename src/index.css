@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family: Dana;
+    src: url(assets/font/Dana/fa/woff/DanaFaNum-Regular.woff);
+}
+
+
+
+*::-webkit-scrollbar {
+    width: 10px;
+    position: relative;
+    z-index: 99999;
+}
+
+*::-webkit-scrollbar-track {
+    background: #ebebeb;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #adadad;
+    border-radius: 14px;
+
+}
+
+
+
+
+
+@keyframes updown {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(10%);
+    }
+}
