@@ -1,4 +1,5 @@
-<h1>
+<div style="display: flex; flex-direction: col;">
+  <h1>
   Blue Bank Website!
 </h1>
 <br />
@@ -12,7 +13,7 @@
 </a>
 
 <pre style="font-size: 25px ; color: white;">
-  i create this project using :
+  I Create This project using :
   Reactjs 
   tailwindcss
   Swiper js
@@ -20,3 +21,5 @@
 </pre>
 
 demo: https://blue-bank-od0buwb0v-ali-farokhs-projects.vercel.app/
+
+</div>
