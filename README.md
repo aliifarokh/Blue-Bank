@@ -11,6 +11,12 @@
   <img src="public/d797b458-1a68-41af-a637-00567ee4414e.png" alt="blue bank" />
 </a>
 
-
+<pre style="font-size: 25px ; color: white;">
+  i create this project using :
+  Reactjs 
+  tailwindcss
+  Swiper js
+  Material UI
+</pre>
 
 demo: https://blue-bank-od0buwb0v-ali-farokhs-projects.vercel.app/
